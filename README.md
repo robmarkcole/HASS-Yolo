@@ -12,3 +12,7 @@ wget https://pjreddie.com/media/files/yolov3-tiny.weights
 Then run the detector with the tiny config file and weights:
 
 ./darknet detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg
+
+### Articles
+* https://medium.com/ml-everything/how-to-actually-easily-detect-objects-with-deep-learning-on-raspberry-pi-4fd40af84fee
+* https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2
