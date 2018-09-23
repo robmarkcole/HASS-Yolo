@@ -16,3 +16,4 @@ Then run the detector with the tiny config file and weights:
 ### Articles
 * https://medium.com/ml-everything/how-to-actually-easily-detect-objects-with-deep-learning-on-raspberry-pi-4fd40af84fee
 * https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2
+* https://github.com/burningion/poor-mans-deep-learning-camera
